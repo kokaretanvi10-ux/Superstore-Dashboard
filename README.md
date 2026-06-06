@@ -8,6 +8,7 @@ The objective was to clean, process, and analyze the dataset to uncover meaningf
 
 Starting from raw data, all steps — including data cleaning, structuring, analysis, and visualization — were performed to create a comprehensive dashboard.
 
+📷 Dashboard Preview - https://www.linkedin.com/feed/update/urn:li:activity:7429201975952478208/
 
 🎯 Objectives
 
